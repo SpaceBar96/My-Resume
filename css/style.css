@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+p {
+  text-align: justify;
+}
+
+img {
+  max-width: 100%;
+  width: 250px;
+  height: auto;
+  object-fit: cover;
+  object-position: bottom;
+}
